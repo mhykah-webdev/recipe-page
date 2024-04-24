@@ -108,8 +108,7 @@ section {
     border-radius: 0.75rem;
 }
 
-section>span {
-    display: block;
+section>h2 {
     color: #7A284E;
     font-size: 1.25rem;
     font-weight: 600;
