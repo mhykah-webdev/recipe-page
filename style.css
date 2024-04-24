@@ -109,10 +109,11 @@ section {
 }
 
 section>h2 {
+    font-family: 'Outfit', sans-serif;
     color: #7A284E;
     font-size: 1.25rem;
     font-weight: 600;
-    margin-bottom: 1rem;
+    padding-bottom: 1rem;
 }
 
 li::marker {
